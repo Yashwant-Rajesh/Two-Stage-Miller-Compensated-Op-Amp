@@ -1,0 +1,55 @@
+This is the  Input-Referred Offset Voltage test 
+Vos = Vin1(DC) − Vout(DC).
+ 
+here since there is no device mismatch and its only simulation Vos is 0
+
+--- Operating Point ---
+
+V(n001):	 1.98019	 voltage
+V(n002):	 1.97524	 voltage
+V(n003):	 0.524925	 voltage
+V(n004):	 0.26604	 voltage
+V(p001):	 0.800057	 voltage
+V(vdd):	 2.5	 voltage
+V(vin1):	 0.800057	 voltage
+V(vin2):	 0.8	 voltage
+V(vout):	 0.800057	 voltage
+I(C1):	 -2.36026e-24	 device_current
+I(C2):	 1.60011e-24	 device_current
+I(I1):	 8e-06	 device_current
+I(R1):	 1.11022e-16	 device_current
+I(Rz):	 1.00929e-20	 device_current
+I(V1):	 -6.4005e-05	 device_current
+I(V3):	 0	 device_current
+Ib(M1):	 5.34763e-13	 device_current
+Ib(M2):	 5.29814e-13	 device_current
+Ib(M3):	 1.70994e-12	 device_current
+Ib(M4):	 -2.26128e-12	 device_current
+Ib(M5):	 -2.26623e-12	 device_current
+Ib(M6):	 -2.7604e-13	 device_current
+Ib(M7):	 -5.34925e-13	 device_current
+Ib(M8):	 -8.10057e-13	 device_current
+Id(M1):	 -3.89506e-06	 device_current
+Id(M2):	 -3.89293e-06	 device_current
+Id(M3):	 -4.8217e-05	 device_current
+Id(M4):	 3.89506e-06	 device_current
+Id(M5):	 3.89293e-06	 device_current
+Id(M6):	 7.78799e-06	 device_current
+Id(M7):	 8e-06	 device_current
+Id(M8):	 4.8217e-05	 device_current
+Ig(M1):	 -0	 device_current
+Ig(M2):	 -0	 device_current
+Ig(M3):	 -0	 device_current
+Ig(M4):	 0	 device_current
+Ig(M5):	 0	 device_current
+Ig(M6):	 0	 device_current
+Ig(M7):	 0	 device_current
+Ig(M8):	 0	 device_current
+Is(M1):	 3.89506e-06	 device_current
+Is(M2):	 3.89293e-06	 device_current
+Is(M3):	 4.8217e-05	 device_current
+Is(M4):	 -3.89506e-06	 device_current
+Is(M5):	 -3.89293e-06	 device_current
+Is(M6):	 -7.78799e-06	 device_current
+Is(M7):	 -8e-06	 device_current
+Is(M8):	 -4.8217e-05	 device_current
