@@ -48,4 +48,5 @@ Split across two schematics — one for frequency-domain characterization, one f
     ├── output_voltage_swing/
     └── input_offset_voltage/
 ```
+> Note: This design uses `tsmc018.lib` (TSMC 0.18µm PDK), included via `.include tsmc018.lib` in all three schematics. Since this is a licensed foundry PDK, not committing the library file itself to the public repo.
 
